@@ -25,11 +25,11 @@
     flex: 0 0 auto;
 }
 
-/* .col {
+.col {
     flex-grow: 1;
     flex-basis: 0;
     max-width: 100%;
-} */
+}
 
 .col-1 {
     flex-basis:  calc((100% / 12) * 1);

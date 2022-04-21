@@ -3,14 +3,22 @@
     min-height: 50px;
     background-color: #006CFA;
     border: solid 2px #fff;
+   
+   
 }
 
 .green { 
+    min-height: 50px;
+    border: solid 2px #006CFA;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: #00E164;
+    display: flex;
+    justify-content: center;
 }
 
 .white {
-    min-height: 30px;
+    min-height: 20px;
     background-color: #fff;
 }
 
