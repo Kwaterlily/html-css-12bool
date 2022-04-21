@@ -1,6 +1,16 @@
 [class*="col-"] {
     /* debug */
-    height: 50px;
+    min-height: 50px;
     background-color: #006CFA;
     border: solid 2px #fff;
 }
+
+.green { 
+    background-color: #00E164;
+}
+
+.white {
+    min-height: 30px;
+    background-color: #fff;
+}
+
