@@ -1,24 +1,19 @@
 [class*="col-"] {
     /* debug */
-    min-height: 50px;
-    background-color: #006CFA;
-    border: solid 2px #fff;
-   
-   
+    min-height: 100px;
+    background-color: #EBECF0;
+    border: solid 1px #C4C3C8;   
 }
 
 .green {   
     min-height: 50px;
     border: solid 2px #006CFA;
+}
+.container {
+    border: solid 5px black;
     margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: #00E164;
-    display: flex;
-    justify-content: center;
 }
 
-.white {
-    min-height: 20px;
-    background-color: #fff;
+span {
+    z-index: 1000;
 }
- 
